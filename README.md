@@ -16,3 +16,11 @@ Based on the name, it was likely intended for a Java solution to the "Hurdle Rac
 ## Status
 
 Minimal / placeholder repo. No code, dependencies, or build system to document yet.
+
+## Documentation checks
+
+Project architecture, interview guides, and local source links are checked automatically on pushes and pull requests. Run the same check locally:
+
+```bash
+python3 .github/scripts/validate_project_docs.py
+```
