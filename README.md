@@ -1,5 +1,12 @@
 # HurdleRace.java
 
+## Overview
+
+A placeholder repository named after the Hurdle Race coding challenge. It currently holds only a README: there is no Java solution, no dependencies and no build system yet. The name suggests it was meant for a Java answer to the HackerRank-style problem, but no implementation has been added so far.
+
+- **Built with:** No code yet (README only)
+- **Scope:** Empty placeholder with no implementation.
+
 <!-- project-guide:start -->
 ## Project guide
 
